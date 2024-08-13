@@ -49,7 +49,7 @@ let Rank = "undefined"
 }
 
 let result = rank() 
-let saldoVitorias = 
+ 
 function main(result, saldo){
     
 }
