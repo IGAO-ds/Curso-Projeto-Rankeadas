@@ -3,7 +3,7 @@ let jogo = {
     lose: 22
 }
 let saldo = jogo.win - jogo.lose
-var  Rank = "undefined"
+
 function rank(){
 
     function saldoPartidas(win, lose){
